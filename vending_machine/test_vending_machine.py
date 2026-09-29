@@ -1,6 +1,6 @@
 
 # test_vending_machine.py
- 
+
 # Unit tests for VendingMachine. These are the "experimental results"
 # referenced in the presentation -- they show the class behaves correctly
 # on the assignment's example, the default_inventory of 20, the edge cases and a 
